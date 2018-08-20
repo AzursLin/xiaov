@@ -75,7 +75,7 @@ public class QQService {
     /**
      * XiaoV self intro. Built-in advertisement.
      */
-    private static final String XIAO_V_INTRO = "关于我的更多资料请看帖 https://hacpai.com/article/1467011936362";
+    private static final String XIAO_V_INTRO = "";//关于我的更多资料请看帖 https://hacpai.com/article/1467011936362
 
     /**
      * 记录未群推过的群 id 集合.
